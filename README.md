@@ -11,8 +11,6 @@
 
 <img src="https://www.warnerbros.com/assets/apple-touch-icon.png" width="40" height="40">
 
-![image](https://www.warnerbros.com/assets/favicon-32x32.png)
-
 Looney Tunes Characters and audio clips are owned by Warner Bros. so long as you do not mark them as your own.
 You cannot claim someone else's work legally as yours as Warner Bros. and other official sources licensed by WarnerMedia technically own all images from the television series, comics, commercials, and all other LT Wiki-related merchandise.
 
