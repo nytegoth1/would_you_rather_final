@@ -9,6 +9,8 @@
 
 ## Important
 
+<img src="https://www.warnerbros.com/assets/apple-touch-icon.png" width="40" height="40">
+
 ![image](https://www.warnerbros.com/assets/favicon-32x32.png)
 
 Looney Tunes Characters and audio clips are owned by Warner Bros. so long as you do not mark them as your own.
