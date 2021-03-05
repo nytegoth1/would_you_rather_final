@@ -9,7 +9,8 @@
 
 ## Important
 
-![image](https://www.warnerbros.com/assets/favicon-32x32.png)
+![image](https://www.warnerbros.com/assets/favicon-32x32.png) 
+Looney Tunes Characters and audio clips are owned by Warner Bros. so long as you do not mark them as your own.
 
 
 <h3>Documentation</h3>
