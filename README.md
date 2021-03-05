@@ -1,7 +1,8 @@
 # Udacity project would-you-rather
 
 ![image](https://www.udacity.com/favicon.ico) This project was built using the starter template provided by Udacity.
-* to clone: `git clone https://github.com/nytegoth1/udacity_book_project.git`
+* to clone: `git clone https://github.com/nytegoth1/would_you_rather_final.git`
+* cd would_you_rather_final
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
