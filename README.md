@@ -18,14 +18,20 @@ You cannot claim someone else's work legally as yours as Warner Bros. and other 
 <h3>Dependencies Used</h3>
 <ul>
 <li>"font-awesome": "^4.7.0"</li>
-<li><a href="http://knowbody.github.io/react-router-docs/" rel="nofollow">React Router Documentation</a></li>
-<li><a href="https://reacttraining.com/react-router/web/api/BrowserRouter" rel="nofollow">React Training/React Router</a></li>
-<li><a href="https://facebook.github.io/react/docs/react-api.html" rel="nofollow">React API</a></li>
+<li>"react": "^17.0.1"</li>
+<li>"react-dom": "^17.0.1"</li>
+<li>"react-icons": "^2.2.7"</li>
+<li>"react-redux": "^5.0.7"</li>
+<li>"react-redux-loading": "^4.6.1"</li>
+<li>"react-router-dom": "^5.2.0"</li>
+<li>"react-scripts": "1.1.4"</li>
+<li>"redux": "^4.0.0"</li>
+<li>"redux-thunk": "^2.3.0"</li>
 </ul>
 
 ## Learning materials referenced
 <ul>
-  <li>https://codepen.io/Mark_Bowley/pen/xEbuI</li>
-  <li>https://github.com/james-priest/reactnd-project-would-you-rather</li>
-  <li>https://github.com/sreyseng/would-you-rather</li>
+  <li><a href="https://codepen.io/Mark_Bowley/pen/xEbuI" target="_blank">https://codepen.io/Mark_Bowley/pen/xEbuI</a></li>
+  <li><a href="https://github.com/james-priest/reactnd-project-would-you-rather" target="_blank">https://github.com/james-priest/reactnd-project-would-you-rather</a></li>
+  <li><a href="https://github.com/sreyseng/would-you-rather" target="_blank">https://github.com/sreyseng/would-you-rather</a></li>
 </ul>
