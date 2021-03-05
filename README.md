@@ -34,5 +34,5 @@ You cannot claim someone else's work legally as yours as Warner Bros. and other 
   <li><a href="https://codepen.io/Mark_Bowley/pen/xEbuI" target="_blank">https://codepen.io/Mark_Bowley/pen/xEbuI</a></li>
   <li><a href="https://github.com/james-priest/reactnd-project-would-you-rather" target="_blank">https://github.com/james-priest/reactnd-project-would-you-rather</a></li>
   <li><a href="https://github.com/sreyseng/would-you-rather" target="_blank">https://github.com/sreyseng/would-you-rather</a></li>
-  <li>![go](http://stackoverflow.com){:target="_blank" rel="noopener"}</li>
+  <li>![New tab](http://example.com/)</li>
 </ul>
