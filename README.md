@@ -9,6 +9,9 @@
 
 ## Important
 
+![image](https://www.warnerbros.com/assets/favicon-32x32.png)
+
+
 <h3>Documentation</h3>
 <ul>
 <li><a href="https://github.com/facebookincubator/create-react-app">Create-react-app Documentation</a></li>
